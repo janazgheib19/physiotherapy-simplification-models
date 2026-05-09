@@ -1,0 +1,8 @@
+tensorflow
+torch
+transformers
+numpy
+pandas
+scikit-learn
+nltk
+rouge-score
